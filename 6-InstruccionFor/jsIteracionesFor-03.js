@@ -1,8 +1,14 @@
 function mostrar()
 {
 
-	var repetciones = prompt("ingrese el número de repeticiones");
-	alert("ok");
+	let cantidad;
 
+   cantidad= parseInt( prompt("ingrese cantidad"));
+
+
+
+	for(i=0  ;i<cantidad   ;i++  ){
+		console.log("hola utn-fra");
+	}
 
 }//FIN DE LA FUNCIÓN
