@@ -21,7 +21,7 @@ function mostrar()
 {
 	let raza;
 	let peso;
-	let temperaturamedia;
+	let temperaturamedia; 
 	let edad;
 	let acumulaciondeedades=0;
 	let contadoredades=0;
