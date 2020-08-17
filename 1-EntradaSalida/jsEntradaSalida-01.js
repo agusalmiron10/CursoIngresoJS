@@ -6,6 +6,10 @@ se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 3- nombre de la mujer más joven
 NOTA:pedir datos por "prompt()" y mostrar por console.log(),
 verificar que los datos  exitan antes de mostrarlos*/
+//git status
+//git add . 
+//git commit -m (y lo que quiera poner)
+//por ultimo git push
 
 function mostrar()
 {
@@ -62,6 +66,8 @@ function mostrar()
 
 		switch(sexo)
 		{
+			//sacar el promedio
+			
 			case "femenino":
 				if(bandera2==1 )     
 				{
