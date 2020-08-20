@@ -14,6 +14,7 @@ verificar que los datos  exitan antes de mostrarlos*/
 function mostrar()
 {
 	let nombremujermasjoven;
+    let edad;
 	let promediodelasalturas;
 	let EdadDeLaMujerMasjoven=0;
 	let nombre;
