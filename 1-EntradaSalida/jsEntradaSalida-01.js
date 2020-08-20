@@ -18,7 +18,7 @@ function mostrar()
 	let EdadDeLaMujerMasjoven=0;
 	let nombre;
 	let edad;
-	let edadmasvieja=0;
+	let edadmasvieja=0;  
 	let bandera=1;
 	let bandera2=1;
 	let bandera3=1;
