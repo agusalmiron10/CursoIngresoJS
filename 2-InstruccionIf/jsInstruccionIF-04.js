@@ -5,7 +5,7 @@ function mostrar()
 	edad= parseFloat(document.getElementById("txtIdEdad").value);
 
 	if (edad >=13 && edad <=17) {
-		alert("es adolescente");
+		alert("es adolescente");  
 	} 
 	
 
